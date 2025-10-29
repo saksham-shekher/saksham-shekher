@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Saksham Shekher
 
-<!--
-**saksham-shekher/saksham-shekher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and building innovative solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Developer with a passion for creating impactful applications
+- 🌱 Continuously learning and exploring new technologies
+- 🎯 Focused on writing clean, efficient, and maintainable code
+- 🤝 Open to collaborating on interesting projects
+
+## 🛠️ Technologies & Tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+## 📊 GitHub Stats
+
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saksham-shekher&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/saksham-shekher)](https://github.com/saksham-shekher)
+
+---
+
+⭐️ From [saksham-shekher](https://github.com/saksham-shekher)
